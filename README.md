@@ -13,6 +13,7 @@ I use agents as a workbench: turning repeated manual tasks into lightweight scri
 
 ## Featured Work
 
+- [codex-repo-onboarding-kit](https://github.com/fudujiji/codex-repo-onboarding-kit) - local-first CLI that generates Codex-ready `PROJECT_BRIEF.md` files for repositories.
 - [research-card-studio](https://github.com/fudujiji/research-card-studio) - local-first tool for turning messy research notes into clean shareable cards.
 - [polymarket-mcp-server contribution](https://github.com/caiovicentino/polymarket-mcp-server/pull/29) - fixed market text search to use Polymarket's public search endpoint.
 - [openclaw-hybrid-memory-starter](https://github.com/fudujiji/openclaw-hybrid-memory-starter) - minimal starter for hybrid memory retrieval in agent workflows.
@@ -27,6 +28,6 @@ I use agents as a workbench: turning repeated manual tasks into lightweight scri
 
 ## Building Next
 
-- A compact Codex workflow kit for repeatable repo triage and PR preparation.
+- Better repo triage and PR preparation workflows for Codex.
 - A Polymarket research notebook that turns market search, context, and risk notes into structured evidence.
 - Browser-side utilities for repetitive research and monitoring tasks.
