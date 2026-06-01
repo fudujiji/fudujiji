@@ -11,7 +11,7 @@ I work best on small, concrete fixes: reproducing bugs, tightening tests, improv
 - Agent workflows: repo triage, review loops, memory, and local automation
 - Clear documentation with reproducible steps and honest limitations
 
-## Recent OSS Contributions
+## Recent OSS Work Under Review
 
 - [hn-research/axray #5](https://github.com/hn-research/axray/pull/5) - added Zed `context_servers` discovery for MCP server scans.
 - [modelcontextprotocol/inspector #1397](https://github.com/modelcontextprotocol/inspector/pull/1397) - hardened `Managed*State` connect-path tests by replacing fixed microtask flushes with `vi.waitFor`.
