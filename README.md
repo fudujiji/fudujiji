@@ -13,6 +13,7 @@ I use agents as a workbench: turning repeated manual tasks into lightweight scri
 
 ## Featured Work
 
+- [research-card-studio](https://github.com/fudujiji/research-card-studio) - local-first tool for turning messy research notes into clean shareable cards.
 - [polymarket-mcp-server contribution](https://github.com/caiovicentino/polymarket-mcp-server/pull/29) - fixed market text search to use Polymarket's public search endpoint.
 - [openclaw-hybrid-memory-starter](https://github.com/fudujiji/openclaw-hybrid-memory-starter) - minimal starter for hybrid memory retrieval in agent workflows.
 - [tab-auto-refresh](https://github.com/fudujiji/tab-auto-refresh) - tiny Chrome extension for manual current-tab refresh automation.
@@ -27,5 +28,5 @@ I use agents as a workbench: turning repeated manual tasks into lightweight scri
 ## Building Next
 
 - A compact Codex workflow kit for repeatable repo triage and PR preparation.
-- A Polymarket research notebook that turns market search, context, and risk notes into a clean evidence card.
+- A Polymarket research notebook that turns market search, context, and risk notes into structured evidence.
 - Browser-side utilities for repetitive research and monitoring tasks.
