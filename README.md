@@ -13,6 +13,7 @@ I work best on small, concrete fixes: reproducing bugs, tightening tests, improv
 
 ## Recent OSS Contributions
 
+- [hn-research/axray #5](https://github.com/hn-research/axray/pull/5) - added Zed `context_servers` discovery for MCP server scans.
 - [modelcontextprotocol/inspector #1397](https://github.com/modelcontextprotocol/inspector/pull/1397) - hardened `Managed*State` connect-path tests by replacing fixed microtask flushes with `vi.waitFor`.
 - [hummingbot/mcp #23](https://github.com/hummingbot/mcp/pull/23) - fixed bot status PnL percentage formatting so values are not multiplied by 100 twice.
 - [caiovicentino/polymarket-mcp-server #29](https://github.com/caiovicentino/polymarket-mcp-server/pull/29) - fixed market text search to use Polymarket's public search endpoint.
